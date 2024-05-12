@@ -8,6 +8,16 @@ import 'package:grimoire/screens/home/homeview.dart';
 
 import 'helpers/constants/app_colors.dart';
 
+///  Created by Shreyas Vilaschandra Bhike on 24/03/24.
+
+/// Instagram
+/// TheAppWizard
+/// theappwizard2408
+
+
+///Powered by MangaDex API
+
+
 
 void main() {
   runApp(const MyApp());
