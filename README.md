@@ -43,6 +43,9 @@ Welcome to **Grimoire**! This Flutter application is a Manga/Manhua reading plat
 
 </table>
 
+## Download (Android Test Run)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://example.com/your-apk-file.apk)
+
 
 ## About
 The term "Grimoire" traditionally refers to a textbook of magic, containing instructions on various mystical practices, from crafting magical objects to performing spells and invoking supernatural entities. In our context, Grimoire serves as your gateway to a magical realm of manga and manhua.
