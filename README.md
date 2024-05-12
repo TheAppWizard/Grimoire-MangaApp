@@ -1,6 +1,7 @@
 # Grimoire
 
-![Grimoire Logo](grimoire_logo.png)
+![Grimoire Logo](https://github.com/TheAppWizard/grimoire/assets/70090469/aebe1a7b-86f8-4b9a-848f-83dd2bd8489a)
+
 
 ## Overview
 Welcome to **Grimoire**! This Flutter application is a Manga/Manhua reading platform powered by the MangaDex API. Dive into a world of captivating stories and stunning artwork with this easy-to-use application.
