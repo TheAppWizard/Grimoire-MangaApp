@@ -1,6 +1,6 @@
 # Grimoire
 
-![Grimoire Logo](https://github.com/TheAppWizard/grimoire/assets/70090469/aebe1a7b-86f8-4b9a-848f-83dd2bd8489a)
+A grimoire is a book of magical knowledge, typically containing instructions on how to perform rituals, spells, charms, and other occult practices. Grimoires have been around for centuries and are often associated with occultism, witchcraft, and ceremonial magic. These books may also include information on astrology, alchemy, herbalism, and other esoteric subjects. Grimoires vary widely in content and style, with some being highly structured and others more eclectic or personalized. Some famous examples of grimoires include "The Key of Solomon," "The Lesser Key of Solomon" (also known as the "Lemegeton"), and "The Book of Abramelin.
 
 
 ## Overview
