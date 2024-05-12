@@ -6,12 +6,11 @@ A grimoire is a book of magical knowledge, typically containing instructions on 
 ## Overview
 Welcome to **Grimoire**! This Flutter application is a Manga/Manhua reading platform powered by the MangaDex API. Dive into a world of captivating stories and stunning artwork with this easy-to-use application.
 
-## Screenshots
 <table align="center" style="margin: 0px auto;">
   <tr>
     <td>
         <div style="text-align: center;">
-            <img src="https://user-images.githubusercontent.com/70090469/176597390-97d8ceb1-2aa1-41f3-82ff-cf18d2bd32d4.png" height="250px"/>
+            <img src="https://github.com/TheAppWizard/grimoire/assets/70090469/1fce4ae7-08c2-4688-9af7-29aee83d7f23" height="250px"/>
         </div>
     </td>
     <td>
