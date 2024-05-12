@@ -41,8 +41,12 @@ dependencies:
   flutter_spinkit:
   shared_preferences:
   connectivity_plus:
-  zoom_widget:
-#  json_annotation: any
+  flutter_launcher_icons:
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon.png"
 
 
 
