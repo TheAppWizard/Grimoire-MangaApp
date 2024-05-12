@@ -10,7 +10,7 @@ Welcome to **Grimoire**! This Flutter application is a Manga/Manhua reading plat
   <tr>
     <td>
         <div style="text-align: center;">
-            <img src="https://github.com/TheAppWizard/grimoire/assets/70090469/1fce4ae7-08c2-4688-9af7-29aee83d7f23" height="250px"/>
+            <img src="https://github.com/TheAppWizard/grimoire/assets/70090469/1fce4ae7-08c2-4688-9af7-29aee83d7f23" height="300px"/>
         </div>
     </td>
     <td>
