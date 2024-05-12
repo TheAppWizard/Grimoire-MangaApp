@@ -43,8 +43,8 @@ Welcome to **Grimoire**! This Flutter application is a Manga/Manhua reading plat
 
 </table>
 
-## Download (Android Test Run)
-[![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://drive.google.com/file/d/1lzSfYipGp5Zt5dZ7q0PxkBToRIcANfnN/view?usp=share_link)
+## Download (Android Test Run - To Download Press View Raw)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue)](https://github.com/TheAppWizard/grimoire/blob/main/grimoire.apk)
 
 
 ## About
