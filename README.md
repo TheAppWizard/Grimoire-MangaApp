@@ -77,6 +77,16 @@ Grimoire is powered by the [MangaDex API](https://api.mangadex.org/docs/), provi
 ## Feedback and Support
 We're constantly striving to improve Grimoire and provide the best possible reading experience. If you encounter any issues, have suggestions for features, or just want to share your thoughts, please don't hesitate to reach out to us via [email](mailto:theappwizard2408@gmail.com) or [GitHub Issues](https://github.com/yourusername/grimoire/issues).
 
+
+## About Developers
+
+Grimoire is developed and maintained by [Shreyas Bhike].
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+
 Happy reading!
 
 *Copyright © 2024 Grimoire. All rights reserved.*
