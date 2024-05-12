@@ -6,31 +6,37 @@ A grimoire is a book of magical knowledge, typically containing instructions on 
 ## Overview
 Welcome to **Grimoire**! This Flutter application is a Manga/Manhua reading platform powered by the MangaDex API. Dive into a world of captivating stories and stunning artwork with this easy-to-use application.
 
+
+
+
+
+
+
 <table align="center" style="margin: 0px auto;">
   <tr>
     <td>
         <div style="text-align: center;">
-            <img src="https://github.com/TheAppWizard/grimoire/assets/70090469/1fce4ae7-08c2-4688-9af7-29aee83d7f23" height="300px" width= "180"/>
+            <img src="https://github.com/TheAppWizard/grimoire/assets/70090469/1fce4ae7-08c2-4688-9af7-29aee83d7f23" height="340px" width= "170"/>
         </div>
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="https://user-images.githubusercontent.com/70090469/176600363-d061ef1b-b34f-4a17-a98d-9978ad51b800.png" height="250px"/>
+            <img src="https://github.com/TheAppWizard/grimoire/assets/70090469/985b2ce7-cb52-4709-8b79-6b4496118487" height="340px" width= "170"/>
         </div>
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/3_column.png" height="250px"/>
+            <img src="https://github.com/TheAppWizard/grimoire/assets/70090469/5fecc5a1-252f-49c0-a9b3-8463f0f9202c" height="340px" width= "170"/>
         </div>
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/4_row.png" height="250px"/>
+            <img src="https://github.com/TheAppWizard/grimoire/assets/70090469/fd2ef667-7d47-4c39-840b-2405c16b4387" height="340px" width= "170"/>
         </div>
     </td>
     <td>
         <div style="text-align: center;">
-            <img src="screenshots/5_listview.png" height="250px"/>
+            <img src="https://github.com/TheAppWizard/grimoire/assets/70090469/d48e2535-1a60-4a7a-aa58-f7d6ce0ed8cd"  height="340px" width= "170"/>
         </div>
     </td>
   </tr>
