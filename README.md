@@ -1,4 +1,4 @@
-# Grimoire
+# Grimoire- Your Personal Manga App
 
 A grimoire is a book of magical knowledge, typically containing instructions on how to perform rituals, spells, charms, and other occult practices. Grimoires have been around for centuries and are often associated with occultism, witchcraft, and ceremonial magic. These books may also include information on astrology, alchemy, herbalism, and other esoteric subjects. Grimoires vary widely in content and style, with some being highly structured and others more eclectic or personalized. Some famous examples of grimoires include "The Key of Solomon," "The Lesser Key of Solomon" (also known as the "Lemegeton"), and "The Book of Abramelin.
 
